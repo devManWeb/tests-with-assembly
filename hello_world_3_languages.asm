@@ -2,7 +2,7 @@
 ; English, Italian and German 
 
 section .data
-	textEng db "Hello, World!", 10
+	textEng db "Hello, World!", 10  ;10 is equal to /n
 	textIta db "Ciao, Mondo!", 10
 	textDeu db "Hallo, Welt!", 10
 
